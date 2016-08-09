@@ -1,0 +1,23 @@
+{
+  "name": "node-js-export-strategies-g-416",
+  "version": "1.0.0",
+  "description": "Node.js Export Strategies ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankNowinski/node-js-export-strategies-g-416.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankNowinski/node-js-export-strategies-g-416/issues"
+  },
+  "homepage": "https://github.com/frankNowinski/node-js-export-strategies-g-416#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
